@@ -2,11 +2,11 @@
 
 ---
 
-### Hello world, I'm Jin 👋
+## Hello world, I'm Jin 👋
 You can contact me via email [it.minhhung@gmail.com](mailto:it.minhhung@gmail.com)
 
 **You can hire me for help, too !**
 
-## 📝 Latest My Blog Posts
+### 📝 Latest My Blog Posts
 <!-- MYBLOG:START -->
 <!-- MYBLOG:END -->
