@@ -5,3 +5,7 @@
   <br />
   <h4>You can hire me for help, too !</h4>
 </p>
+
+# Latest Blog Posts
+<!-- MYBLOG:START -->
+<!-- MYBLOG:END -->
