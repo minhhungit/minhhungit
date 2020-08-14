@@ -14,3 +14,6 @@ You can contact me via email [it.minhhung@gmail.com](mailto:it.minhhung@gmail.co
 - [How To Embed Gif Image Into Github Issue/Wiki](https://minhhungit.github.io/2019/10/17/007-how-to-embed-gif-image-into-github-issue-or-wiki/)
 - [Serenity LookupEditor - Pass Parameter And Change LookupKey](https://minhhungit.github.io/2019/10/17/006-lookup-editor-pass-parameter-and-change-lookup-key/)
 <!-- MYBLOG:END -->
+
+### 📈 Stats
+![Jin's github stats](https://github-readme-stats.vercel.app/api?username=minhhungit&count_private=false&theme=vue&show_icons=true)
