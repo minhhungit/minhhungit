@@ -9,7 +9,7 @@ You can contact me via email [it.minhhung@gmail.com](mailto:it.minhhung@gmail.co
 
 ### 📝 Latest My Blog Posts
 <!-- MYBLOG:START -->
-- [Adding slickgrid column in Serenity](https://minhhungit.github.io/2020/10/07/010-adding-slickgrid-column-in-serenity/)
+- [Adding slickgrid column in Serenity dynamically](https://minhhungit.github.io/2020/10/07/010-adding-slickgrid-column-in-serenity-dynamically/)
 - [Implement Helping Button Using Popover Bootstrap 3 On Serenity Form](https://minhhungit.github.io/2020/08/06/009-implement-helping-button-using-popover-bootstrap-3-on-serenity-form/)
 - [Create Serenity Toolbar Dropdown Button](https://minhhungit.github.io/2020/06/10/008-create-serenity-toolbar-dropdown-button/)
 - [How To Embed Gif Image Into Github Issue/Wiki](https://minhhungit.github.io/2019/10/17/007-how-to-embed-gif-image-into-github-issue-or-wiki/)
