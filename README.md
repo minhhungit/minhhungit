@@ -16,5 +16,7 @@ You can contact me via email [it.minhhung@gmail.com](mailto:it.minhhung@gmail.co
 <!-- MYBLOG:END -->
 
 ### 📈 Stats
-[![Jin's github stats](https://github-readme-stats.vercel.app/api?username=minhhungit&count_private=false&theme=vue&show_icons=true)](https://github.com/minhhungit)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=minhhungit&langs_count=8&layout=compact&theme=vue)](https://github.com/minhhungit)
+
+**Jin's Github Stats**             |  **Jin's Top Languages**
+:-------------------------:|:-------------------------:
+[![Jin's github stats](https://github-readme-stats.vercel.app/api?username=minhhungit&count_private=false&theme=vue&show_icons=true&hide_title=true&hide_border=true&include_all_commits=true)](https://github.com/minhhungit)  |  [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=minhhungit&langs_count=8&layout=compact&theme=vue&hide_title=true&hide_border=true&include_all_commits=true)](https://github.com/minhhungit)
