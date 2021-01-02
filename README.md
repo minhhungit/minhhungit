@@ -7,6 +7,11 @@ You can contact me via email [it.minhhung@gmail.com](mailto:it.minhhung@gmail.co
 
 **You can hire me for help, too !**
 
+### Premium Products
+**<a href="https://minhhungit.github.io/2020/12/26/012-introduce-dashboard-widget-system/">Dashboard Widget System</a>**             |  **Comming soon**
+:-------------------------:|:-------------------------:
+<a href="https://minhhungit.github.io/2020/12/26/012-introduce-dashboard-widget-system/"><img src="https://raw.githubusercontent.com/minhhungit/minhhungit/master/assets/products/dashboard-widget-system.png" /></a>  |  Comming soon...
+
 ### 📝 Latest My Blog Posts
 <!-- MYBLOG:START -->
 - [Introduce A Dashboard Widget System For Serenity Framework](https://minhhungit.github.io/2020/12/26/012-introduce-dashboard-widget-system/)
@@ -17,6 +22,4 @@ You can contact me via email [it.minhhung@gmail.com](mailto:it.minhhung@gmail.co
 
 ### 📈 Stats
 
-**Jin's Github Stats**             |  **Jin's Top Languages**
-:-------------------------:|:-------------------------:
-[![Jin's github stats](https://github-readme-stats.vercel.app/api?username=minhhungit&count_private=false&theme=vue&show_icons=true&hide_title=true&hide_border=true&include_all_commits=true)](https://github.com/minhhungit)  |  [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=minhhungit&langs_count=8&layout=compact&theme=vue&hide_title=true&hide_border=true&include_all_commits=true)](https://github.com/minhhungit)
+[![Jin's github stats](https://github-readme-stats.vercel.app/api?username=minhhungit&count_private=false&theme=vue&show_icons=true&hide_title=true&hide_border=true&include_all_commits=true)](https://github.com/minhhungit)
