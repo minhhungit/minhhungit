@@ -11,6 +11,8 @@ You can contact me via email [it.minhhung@gmail.com](mailto:it.minhhung@gmail.co
 **<a href="https://minhhungit.github.io/2020/12/26/012-introduce-dashboard-widget-system/">Dashboard Widget System for Serenity framework</a>**             |
 :-------------------------:
 <a href="https://minhhungit.github.io/2020/12/26/012-introduce-dashboard-widget-system/"><img src="https://raw.githubusercontent.com/minhhungit/minhhungit/master/assets/products/dashboard-widget-system.png" /></a>  |
+Demo site: https://jin-pro-packages.azurewebsites.net |
+Login account: admin/serenity |
 
 ### 📝 Latest My Blog Posts
 <!-- MYBLOG:START -->
