@@ -7,6 +7,10 @@ You can contact me via email [it.minhhung@gmail.com](mailto:it.minhhung@gmail.co
 
 **You can hire me for help, too !**
 
+Or buy me a coffee
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/I2I13GAGL)
+
 ### 🤑 What I sell
 **<a href="https://minhhungit.github.io/2020/12/26/012-introduce-dashboard-widget-system/">Dashboard Widget System for Serenity framework</a>**             |
 :-------------------------:
