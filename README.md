@@ -27,5 +27,6 @@ Login account: admin/serenity |
 <!-- MYBLOG:END -->
 
 ### 📈 Stats
-
-[![Jin's github stats](https://github-readme-stats.vercel.app/api?username=minhhungit&count_private=false&theme=vue&show_icons=true&hide_title=true&hide_border=true&include_all_commits=true)](https://github.com/minhhungit)
+<div align="center">
+   <img src="https://github-profile-trophy.vercel.app/?username=minhhungit&theme=flat&no-frame=true&margin-w=30" />
+</div>
