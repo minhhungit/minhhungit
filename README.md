@@ -3,7 +3,7 @@
 ---
 
 ## Hello world, I'm Jin 👋
-You can contact me via email [it.minhhung@gmail.com](mailto:it.minhhung@gmail.com)
+You can contact me via email [it.minhhung@gmail.com](mailto:it.minhhung@gmail.com) or skype: minhhungit
 
 **You can hire me for help, too !**
 
