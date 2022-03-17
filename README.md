@@ -1,4 +1,4 @@
-<a href="http://minhhungit.github.com/"><img src="https://raw.githubusercontent.com/minhhungit/minhhungit/master/assets/banner-img-01.png" /></a>
+<a href="http://minhhungit.github.com/"><img src="https://raw.githubusercontent.com/minhhungit/minhhungit/master/assets/banner-img-02.png" /></a>
 
 ---
 
