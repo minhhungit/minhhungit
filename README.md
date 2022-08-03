@@ -25,8 +25,3 @@ You can contact me via email [it.minhhung@gmail.com](mailto:it.minhhung@gmail.co
 - [Adding slickgrid column in Serenity dynamically](https://minhhungit.github.io/2020/10/07/010-adding-slickgrid-column-in-serenity-dynamically/)
 - [Implement Helping Button Using Popover Bootstrap 3 On Serenity Form](https://minhhungit.github.io/2020/08/06/009-implement-helping-button-using-popover-bootstrap-3-on-serenity-form/)
 <!-- MYBLOG:END -->
-
-### 📈 Stats
-<div align="center">
-   <img src="https://github-profile-trophy.vercel.app/?username=minhhungit&theme=flat&no-frame=true&margin-w=30" />
-</div>
