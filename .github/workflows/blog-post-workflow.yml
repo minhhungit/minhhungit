@@ -15,4 +15,4 @@ jobs:
         with:
           comment_tag_name: "MYBLOG"
           max_post_count: "4"
-          feed_list: "https://minhhungit.github.io/atom.xml"
+          feed_list: "https://y2group.dev/atom.xml"
