@@ -14,7 +14,7 @@ I'm Jin, Architect - Development Team Lead at LetterB LLC. I fall in love with A
 - 👯 I’m looking to collaborate on **Open Source Projects**.
 - 💬 Ask me about **C# .NET Core**, **MSSQL Server**, **MongoDB**, **Big Data**, and **Distributed Systems**.
 - 📫 How to reach me: [Email](mailto:it.minhhung@gmail.com), [LinkedIn](https://www.linkedin.com/in/minhhungit/)
-- ⚡ Fun fact: I enjoy playing chess/video game and learn/improve English in my free time.
+- ⚡ Fun fact: I enjoy playing chess/video game and learn/improve my English in free time.
 
 ## 🛠️ Languages and Tools
 
