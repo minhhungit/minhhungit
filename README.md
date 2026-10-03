@@ -8,7 +8,7 @@
 
 ## 👨‍💻 About Me
 
-I'm Jin, Architect - Development Team Lead at LetterB LLC. I fall in love with AI LLMs, big data, distributed systems, and event streaming. I love to explore new technologies and continuously improve my coding skills.
+I'm Jin, Architect - Development Team Lead. I fall in love with AI LLMs, big data, distributed systems, and event streaming. I love to explore new technologies and continuously improve my coding skills.
 
 - 🌱 I’m currently learning **Cloud Computing** and **Machine Learning**.
 - 👯 I’m looking to collaborate on **Open Source Projects**.
